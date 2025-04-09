@@ -27,3 +27,4 @@ I am involved in:
 - [COMP 3500](https://github.com/bmb0136/COMP-3500) Introduction to Operating Systems
 - [COMP 3270](https://github.com/bmb0136/COMP-3270) Introduction to Algorithms
 - [COMP 3220](https://github.com/bmb0136/COMP-3220) Principles of Programming Languages
+- [COMP 3700](https://github.com/bmb0136/COMP-3700-Project) Software Modeling and Design
