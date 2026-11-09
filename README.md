@@ -12,6 +12,7 @@ I am a Computer Science graduate student at Auburn University.
 
 - COMP 6370 Computer and Network Security
   - [Project 1](https://github.com/goldengoldfish/comp5370-p1g21)
+  - [Project 2](https://github.com/bmb0136/COMP-6370-p2g21)
 - [COMP 6710](https://github.com/bmb0136/COMP-6710) Software Quality Assurance
 - [COMP 6970 GenAI + FM](https://github.com/bmb0136/COMP-6970-GenAI-FM) Special Topics: Generative AI and Foundation Models
 - [COMP 5630](https://github.com/bmb0136/COMP-5630) Machine Learning
